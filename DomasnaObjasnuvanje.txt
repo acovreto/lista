@@ -1,0 +1,57 @@
+
+1. Da ja kreirame igrata "Ne luti se covece" so pomos na tabeli. 
+Start poleto go imate vo dopolnitelna slikicka, a i polinjata 
+po koi gi dvizime figurite isto taka se so posebna slikicka. 
+Ne se lutite sho vi davame vakva zadaca :)
+
+2. Kreirajte ja listata: 
+
+I. Football
+	 1. England
+		   a. Premier League
+				- Celsea
+				- Tottenham
+				- Arsenal
+				- Manchester Utd
+				
+		   b. Championship
+		        - Birmingham
+				- Aston Villa
+				- Leeds
+			
+	 2. Spain
+		   a. LaLiga
+				- Barcelona
+				- Real Madird
+				- Sevilla
+				
+		   b. Secunda
+				- Malaga
+				- Zaragoza			
+
+II. Basketball
+	 1. USA
+	       a. NBA 
+				- Orlando Magic
+				- Chicago Bulls
+				- Golden State Warriors
+		   
+		   b. NCAA
+				- Tennessee
+				- Kentucky
+				- Harvard
+				- Yale
+	 2. Europe
+		   a. Euroleague
+		       - Barcelona
+			   - CSKA Moscow
+			   - Fenerbahce
+		   b. ABA League
+				- Cibona
+				- Krka
+
+III. Tenis
+       - Rafael Nadal
+       - Roger Federer
+       - Novak Djokovic
+	
